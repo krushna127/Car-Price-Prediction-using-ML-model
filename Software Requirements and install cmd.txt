@@ -1,0 +1,13 @@
+Software Requirements
+Python 3.8+
+Jupyter Notebook
+Streamlit
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
+Plotly
+
+Master Command to install:
+pip install pandas numpy scikit-learn matplotlib seaborn streamlit plotly
